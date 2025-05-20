@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiamondAPP", "DiamondAPP.csproj", "{0C2225C5-A675-4D59-96BB-A81064B8B5E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C2225C5-A675-4D59-96BB-A81064B8B5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2225C5-A675-4D59-96BB-A81064B8B5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2225C5-A675-4D59-96BB-A81064B8B5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2225C5-A675-4D59-96BB-A81064B8B5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {223FFD45-94D9-47A4-9146-8DEA50C36920}
+	EndGlobalSection
+EndGlobal

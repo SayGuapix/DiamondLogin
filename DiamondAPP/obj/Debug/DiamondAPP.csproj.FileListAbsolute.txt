@@ -1,0 +1,10 @@
+C:\Users\FREDY\source\repos\DiamondAPP\obj\Debug\DiamondAPP.csproj.AssemblyReference.cache
+C:\Users\FREDY\source\repos\DiamondAPP\obj\Debug\DiamondAPP.Form1.resources
+C:\Users\FREDY\source\repos\DiamondAPP\obj\Debug\DiamondAPP.csproj.GenerateResource.cache
+C:\Users\FREDY\source\repos\DiamondAPP\bin\Debug\DiamondAPP.exe.config
+C:\Users\FREDY\source\repos\DiamondAPP\bin\Debug\DiamondAPP.exe
+C:\Users\FREDY\source\repos\DiamondAPP\bin\Debug\DiamondAPP.pdb
+C:\Users\FREDY\source\repos\DiamondAPP\obj\Debug\DiamondAPP.Properties.Resources.resources
+C:\Users\FREDY\source\repos\DiamondAPP\obj\Debug\DiamondAPP.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\source\repos\DiamondAPP\obj\Debug\DiamondAPP.exe
+C:\Users\FREDY\source\repos\DiamondAPP\obj\Debug\DiamondAPP.pdb
